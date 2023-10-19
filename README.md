@@ -1,6 +1,6 @@
 # Lot no. 010 | A collection of custom LEGO compatible bricks and tools
 
-![samplePhoto001](https://github.com/Archive-663/CZ82/blob/main/ASSETS/PHOTO/GMP01538.jpg)
+![samplePhoto001](https://github.com/Archive-663/lego/blob/main/ASSETS/lego_nikonFCamera.jpg)
 
 ### In this repository:
 This repository contains a collection of custom designed LEGO compatible parts, brinks, and tools.
